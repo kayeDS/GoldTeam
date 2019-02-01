@@ -1,0 +1,19 @@
+{
+  "name": "goldteam_support",
+  "version": "1.0.1",
+  "description": "autoreply for gold team support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "autoreply"
+  ],
+  "author": "keis",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "hangouts-bot": "^0.2.1",
+    "request": "^2.88.0"
+  }
+}
